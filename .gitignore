@@ -1,0 +1,5 @@
+./venv
+./datas
+/venv/
+/datas/train/audio/
+/.idea/misc.xml
